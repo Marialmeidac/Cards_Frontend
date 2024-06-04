@@ -51,3 +51,7 @@ box-shadow: 4px 4px 12px #aaaa;
     font-weight: bold;
     border-radius: 6px;
 }
+.card button:hover {
+    background-color: #106ec5;
+    color: #fff;
+}
